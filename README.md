@@ -94,10 +94,8 @@ These are some images of the robot our group wrote this program for.
 <img src="assets/IMG_01.png" alt="Robot Front View" style="width:100%; margin-bottom: 16px;">
 
 <div style="display: flex; flex-wrap: wrap; gap: 2%;">
-
     <img src="assets/IMG_02.png" alt="Robot Side View" style="width:49%;">
     <img src="assets/IMG_03.png" alt="Robot Angle View" style="width:49%;">
-
 </div>
 <div style="display: flex; flex-wrap: wrap; gap: 2%; margin-top: 8px;">
     <img src="assets/IMG_04.png" alt="Robot Detail 1" style="width:49%;">
