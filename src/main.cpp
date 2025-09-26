@@ -154,9 +154,15 @@ void automatic() {
 }
 
 int main() {
+    // Initializing Robot Configuration. DO NOT REMOVE!
     armLeft.setVelocity(50, percent);
     armLeft.setVelocity(50, percent);
 
-    // remoteControll();
+    // Automatic part
     automatic();
+
+    // Remote controll using controller
+    remoteControll();
+
+    return 0;
 }
