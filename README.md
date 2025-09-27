@@ -96,6 +96,9 @@ Features integrated driving, turning, arm, and claw mechanisms—operable via co
 
 These are some images of the robot our group wrote this program for:
 
+> [!NOTE]
+> These images are low quality to increase the speed of loading them on Github. Look [here](./assets/hi-res/) or **click the image** for the high resolution versions.
+
 <a href="assets/hi-res/IMG_01.png">
     <img src="assets/IMG_01.jpeg" alt="Robot Front View" style="width:100%; margin-bottom: 16px;">
 </a>
