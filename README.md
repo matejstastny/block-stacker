@@ -89,27 +89,49 @@ Implements driving, turning, claw, and arm control using both controller input a
 
 ## Images
 
-These are some images of the robot our group wrote this program for.
+These are some images of the robot our group wrote this program for:
 
-<img src="assets/IMG_01.png" alt="Robot Front View" style="width:100%; margin-bottom: 16px;">
+<a href="assets/hi-res/IMG_01.png">
+    <img src="assets/IMG_01.jpeg" alt="Robot Front View" style="width:100%; margin-bottom: 16px;">
+</a>
 
 <div style="display: flex; flex-wrap: wrap; gap: 2%;">
-    <img src="assets/IMG_02.png" alt="Robot Side View" style="width:49%;">
-    <img src="assets/IMG_03.png" alt="Robot Angle View" style="width:49%;">
+    <a href="assets/hi-res/IMG_02.png">
+        <img src="assets/IMG_02.jpeg" alt="Robot Side View" style="width:49%;">
+    </a>
+    <a href="assets/hi-res/IMG_03.png">
+        <img src="assets/IMG_03.jpeg" alt="Robot Angle View" style="width:49%;">
+    </a>
 </div>
 <div style="display: flex; flex-wrap: wrap; gap: 2%; margin-top: 8px;">
-    <img src="assets/IMG_04.png" alt="Robot Detail 1" style="width:49%;">
-    <img src="assets/IMG_05.png" alt="Robot Detail 2" style="width:49%;">
+    <a href="assets/hi-res/IMG_04.png">
+        <img src="assets/IMG_04.jpeg" alt="Robot Detail 1" style="width:49%;">
+    </a>
+    <a href="assets/hi-res/IMG_05.png">
+        <img src="assets/IMG_05.jpeg" alt="Robot Detail 2" style="width:49%;">
+    </a>
 </div>
 <div style="display: flex; flex-wrap: wrap; gap: 2%; margin-top: 8px;">
-    <img src="assets/IMG_06.png" alt="Robot Detail 3" style="width:49%;">
-    <img src="assets/IMG_07.png" alt="Robot Detail 4" style="width:49%;">
+    <a href="assets/hi-res/IMG_06.png">
+        <img src="assets/IMG_06.jpeg" alt="Robot Detail 3" style="width:49%;">
+    </a>
+    <a href="assets/hi-res/IMG_07.png">
+        <img src="assets/IMG_07.jpeg" alt="Robot Detail 4" style="width:49%;">
+    </a>
 </div>
 <div style="display: flex; flex-wrap: wrap; gap: 2%; margin-top: 8px;">
-    <img src="assets/IMG_08.png" alt="Robot Detail 5" style="width:49%;">
-    <img src="assets/IMG_09.png" alt="Robot Detail 6" style="width:49%;">
+    <a href="assets/hi-res/IMG_08.png">
+        <img src="assets/IMG_08.jpeg" alt="Robot Detail 5" style="width:49%;">
+    </a>
+    <a href="assets/hi-res/IMG_09.png">
+        <img src="assets/IMG_09.jpeg" alt="Robot Detail 6" style="width:49%;">
+    </a>
 </div>
 <div style="display: flex; flex-wrap: wrap; gap: 2%; margin-top: 8px;">
-    <img src="assets/IMG_10.png" alt="Robot Detail 7" style="width:49%;">
-    <img src="assets/IMG_11.png" alt="Robot Detail 8" style="width:49%;">
+    <a href="assets/hi-res/IMG_10.png">
+        <img src="assets/IMG_10.jpeg" alt="Robot Detail 7" style="width:49%;">
+    </a>
+    <a href="assets/hi-res/IMG_11.png">
+        <img src="assets/IMG_11.jpeg" alt="Robot Detail 8" style="width:49%;">
+    </a>
 </div>
