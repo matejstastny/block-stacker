@@ -1,40 +1,42 @@
+![banner](./assets/banner.png)
+
 # Block Stacker (VEX V5)
 
-VEX V5 robot program for my Redmond High School Principles of Engineering class.
-Stacks blocks
-Implements driving, turning, claw, and arm control using both controller input and autonomous sequences.
+A **VEX V5** robot program written in C++ developed for the **Redmond High School** _Principles of Engineering_ course.
+Enables block stacking with both autonomous routines and manual control.
+Features integrated driving, turning, arm, and claw mechanisms—operable via controller or pre-programmed sequences.
 
 ## Features
 
-- **Drive system**
+- 🚗 **Drive system**
 
   - Four-motor tank drive (front/back, left/right).
   - Distance sensor support for automatic stopping.
 
-- **Arm control**
+- 🦾 **Arm control**
 
   - Dual motors for lifting.
   - Button mappings for raise/lower with hold braking.
 
-- **Claw control**
+- 🤲 **Claw control**
 
   - Dual motors for opening/closing.
   - Button mappings for grab/release with hold braking.
 
-- **Autonomous routine**
+- 🤖 **Autonomous routine**
 
   - Lifts arm, turns, drives forward/backward, and grabs a block.
   - Uses distance sensor to approach target.
   - Places the block after navigating.
 
-- **Manual control**
+- 🎮 **Manual control**
   - Tank drive mapped to joysticks:
     - Axis2 → left side
     - Axis3 → right side
   - Arm mapped to **R1 (up)** and **R2 (down)**
   - Claw mapped to **L1 (close)** and **L2 (open)**
 
-## Code Structure
+## 📜 Code Structure
 
 - `driveForwardUntilDistance(targetDistance)`
   Drives forward until the distance sensor detects an object closer than the target distance.
@@ -87,7 +89,10 @@ Implements driving, turning, claw, and arm control using both controller input a
    - Runs the **autonomous** sequence once
    - Switches to **manual control** for driver operation
 
-## Images
+> [!WARNING]
+> The autonomous routine runs first. Ensure the area around the robot is clear before running to avoid accidents!
+
+## Images 📸
 
 These are some images of the robot our group wrote this program for:
 
