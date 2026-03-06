@@ -1,15 +1,6 @@
-<table>
-<tr>
-    <td>
-        <img src="assets/icon.png" width="80"/></td>
-        <td>
-            <h1>Block Stacker</h1>
-            <p>VEX V5 Robotics Competition robot — autonomously stacks colored blocks, then switches to driver control.</p>
-        </td>
-</tr>
-</table>
+<img src="assets/banner.png" alt="Project banner" width="100%"/>
 
-## Overview
+# Block Stacker
 
 A VEX V5 robot built for the block-stacking challenge. It runs a fully autonomous routine at the start of each match — navigating to a block using a distance sensor, clamping it with a motorized claw, lifting it with a dual-motor arm, and placing it on the stack — then hands control off to the driver via a VEX controller.
 
